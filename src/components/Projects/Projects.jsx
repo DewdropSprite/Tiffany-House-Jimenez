@@ -21,6 +21,13 @@ function Projects() {
         src="./public/Pawesomely Purrfect.jpeg"
         alt="Pawesomely Purrfect"
       />
+
+<h5>Can Do Canines</h5>
+      <img
+        id="Can Do Canines"
+        src="./public/Can_Do_Canines.jpeg"
+        alt="Can Do Canines"
+      />
       <div>
 
       {/* Open the modal */}
